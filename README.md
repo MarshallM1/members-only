@@ -1,24 +1,7 @@
-# README
+# Members Only
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a small Rails application, with which users can make posts. Only other logged in users can see the authors of the posts.
 
-Things you may want to cover:
+See more at [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/authentication).
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+See the app in action at https://fast-beyond-11068.herokuapp.com/
